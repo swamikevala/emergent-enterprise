@@ -1,5 +1,5 @@
 # emergent-enterprise
-A LangChain framework evolving organizational intelligence through hierarchically structured autonomous agents, backed by graph-based strategy analysis
+A LangGraph framework evolving organizational intelligence through hierarchically structured autonomous agents, backed by graph-based strategy analysis
 
 Emergent Enterprise executes user-defined projects while evolving its organizational capabilities. It operates through a fractal pattern of autonomous AI agents, each driven by a unique persona. A master agent, shaped by visionary leadership traits and optimizing for both project and long-term success, initiates the system. The framework unfolds through recursive autonomy - each agent crafts strategies, spawns sub-agents, and assigns tasks within resource constraints.
 
